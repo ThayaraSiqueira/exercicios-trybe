@@ -1,0 +1,38 @@
+h1{
+    font-size: 65px;
+}
+h1 {
+    color:orange ;
+    font-family: sans-serif;
+    text-align: center
+    
+}
+
+body {
+    background-color: palegreen;
+    font-size: 16px;
+    font-style:italic
+}
+
+.colors-list {
+    background-color:white;
+    line-height: 2em
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+    text-decoration:lemonchiffon;
+}
+
+#amar {
+    background-color: yellow;
+}
+#verm {
+    background-color: red;    
+}
+#marr {
+    background-color: brown;
+}
+
+
