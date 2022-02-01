@@ -53,6 +53,7 @@ article {
 }
 section {
     display: inline-block;
+    vertical-align: middle;
 }
 
 aside {
@@ -62,6 +63,7 @@ aside {
     color: rgb(252, 245, 236); 
     padding-right: 1500px;
     padding-top: 20px;
+    vertical-align: middle;
 }
 
 footer {
