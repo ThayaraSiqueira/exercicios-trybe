@@ -1,4 +1,4 @@
-const pecaDeXadrez = "QuEEn";
+const pecaDeXadrez = "KnIgHt";
 
 switch (pecaDeXadrez.toLowerCase()) {
     case "rook":
