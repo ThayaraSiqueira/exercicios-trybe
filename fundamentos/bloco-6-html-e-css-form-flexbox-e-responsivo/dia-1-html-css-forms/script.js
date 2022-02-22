@@ -22,5 +22,5 @@ function clearFields() {
     const clearBtn = document.querySelector('#clear-btn');
     clearBtn.addEventListener('click', clearFields);
     const submitBtn = document.querySelector('#submit-btn');
-    submitBtn.addEventListener('click', handleSubmit);
+    submitBtn.addEventListener('click', submit);
   };
