@@ -140,34 +140,34 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ​
 ##### Bloco 19: Docker: Utilizando Containers
 ​
-- [ ] 19-1: _Utilizando Containers - Docker_
-- [ ] 19-2: _Manipulação e Criação de Imagens no Docker_
-- [ ] 19-3: _Orquestrando Containers com Docker Compose_
-- [ ] 19-4: _[Projeto - Docker Todo-List]()_
+- [X] 19-1: _Utilizando Containers - Docker_
+- [X] 19-2: _Manipulação e Criação de Imagens no Docker_
+- [X] 19-3: _Orquestrando Containers com Docker Compose_
+- [X] 19-4: _[Projeto - Docker Todo-List]()_
 ​
 ##### Bloco 20: Introdução a SQL
 ​
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma específica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
+- [X] 20-1: _Banco de dados SQL_
+- [X] 20-2: _Encontrando dados em um banco de dados_
+- [X] 20-3: _Filtrando dados de forma específica_
+- [X] 20-4: _Manipulando tabelas_
+- [X] 20-5: _[Projeto - All For One]()_
 ​
 ##### Bloco 21: Funções SQL, JOINs & Normalização
 ​
-- [ ] 21-1: _Funções mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs_
-- [ ] 21-3: _Transformando ideias em um modelo de banco de dados_
-- [ ] 21-4: _[Projeto - One For All]()_
+- [X] 21-1: _Funções mais usadas no SQL_
+- [X] 21-2: _Descomplicando JOINs_
+- [X] 21-3: _Transformando ideias em um modelo de banco de dados_
+- [X] 21-4: _[Projeto - One For All]()_
 ​
 ##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 ​
-- [ ] 22-1: _Node.js - Um motor JavaScript_
-- [ ] 22-2: _Node.js - Fluxo Assíncrono_
-- [ ] 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
-- [ ] 22-4: _Express - HTTP com Node.js_
-- [ ] 22-5: _Express - Middlewares_
-- [ ] 22-6: _[Projeto - Talker Manager]()_
+- [X] 22-1: _Node.js - Um motor JavaScript_
+- [X] 22-2: _Node.js - Fluxo Assíncrono_
+- [X] 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
+- [X] 22-4: _Express - HTTP com Node.js_
+- [X] 22-5: _Express - Middlewares_
+- [X] 22-6: _[Projeto - Talker Manager]()_
 ​
 ##### Bloco 23: Node.js - Camada de Serviço & Arquitetura Rest & Restful
 ​
