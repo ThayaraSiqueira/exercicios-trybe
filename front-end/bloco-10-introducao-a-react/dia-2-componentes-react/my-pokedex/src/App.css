@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.pokedex {
+  height: 750px;
+  color: white;
+}
+h1 {
+  padding: 130px;
+  text-transform: capitalize;
+  font-family:'Miltonian Tattoo', cursive,'Lato', sans-serif;
+}
+
+header {
+  background-color: white;
+}
+
+body {
+  background-color: red;
+}

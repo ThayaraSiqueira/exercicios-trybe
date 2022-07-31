@@ -47,5 +47,5 @@ const getNumberOfStudents = (obj) => {
 const getValueByNumber = (obj,number) => console.log(Object.values(obj)[number]);
 getValueByNumber(lesson1,0);
 // Crie uma função que verifique se o par (chave / valor) existe na função. Essa função deve possuir três parâmetros, sendo eles: o objeto, o nome da chave e o valor da chave. Exemplo:
-const verifyKeyandValue = (obj,key,value) => Object.values(obj).includes(value) && obj.hasOwnProperty(key) ? console.log(true) : console.log(false);
-verifyKeyandValue(lesson3,'turno','noite');
+const verifyKeyandValue = (obj,key,value) => obj.hasOwnProperty(key) && Object.values(obj).includes(value) ? console.log(true) : console.log(false);
+verifyKeyandValue(lesson2,'professor','Carlos');
