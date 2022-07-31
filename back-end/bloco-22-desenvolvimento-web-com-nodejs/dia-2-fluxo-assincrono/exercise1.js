@@ -18,3 +18,5 @@ function doMath(a, b, c) {
     resolve(result);
   });
 }
+
+module.exports = doMath;
