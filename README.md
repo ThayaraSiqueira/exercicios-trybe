@@ -3,9 +3,7 @@
 This repository contains all the learning activities developed by Thayara Siqueira
 (https://www.linkedin.com/in/thayara-siqueira-226603215/) while studying at [Trybe](https://www.betrybe.com/) :rocket:
 ​
-_"Trybe is a school of the future for anyone who wants to improve their life and build a successful career in technology, where you only pay when you get a good job."_
-​
-The program has over 1,500 hours of synchronous online classes, covering introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills.
+The program has over 1,500 hours of synchronous and assynchronous online classes, covering introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills.
 ​
 ##  Web Development Fundamentals :white_check_mark:
 ​
@@ -170,61 +168,61 @@ The program has over 1,500 hours of synchronous online classes, covering introdu
 - [X] 22-5: _Express - Middlewares_
 - [X] 22-6: _[Project - Talker Manager]()_
 ​
-##### Bloco 23: Node.js - Camada de Serviço & Arquitetura Rest & Restful
+##### 23: Node.js - Service Layer & Rest & Restful Architecture
 ​
-- [ ] 23-1: _Arquitetura de Software - Camada de Model_
-- [ ] 23-2: _Arquitetura de Software - Camada de Controller e Service_
-- [ ] 23-3: _Arquitetura Web - Rest e Restful_
-- [ ] 23-4: _Arquitetura de Software - Testando as Camadas_
-- [ ] 23-5: _[Projeto - Store Manager]()_
+- [ ] 23-1: _Software Architecture - Model Layer_
+- [ ] 23-2: _Software Architecture - Controller and Service Layer_
+- [ ] 23-3: _Web Architecture - Rest & Restful_
+- [ ] 23-4: _Software Architecture - Testing the Layers_
+- [ ] 23-5: _[Project - Store Manager]()_
 ​
-##### Bloco 24: Node.js - ORM & Autenticação
+##### 24: Node.js - ORM & Authentication
 ​
-- [ ] 24-1: _ORM - Interface da aplicação com o banco de dados_
+- [ ] 24-1: _ORM - Application Database Interface_
 - [ ] 24-2: _ORM - Associations_
 - [ ] 24-3: _JWT - (JSON Web Token)_
-- [ ] 24-4: _[Projeto - API de Blogs]()_
+- [ ] 24-4: _[Project - Blog API]()_
 ​
-##### Bloco 25: Deployment
+##### 25: Deployment
 ​
-- [ ] 25-1: _Infraestrutura - Deploy com Heroku_
+- [ ] 25-1: _Infrastructure - Deploying with Heroku_
 - [ ] 25-2: _Deploy Docker & Heroku_
-- [ ] 25-3: _[Projeto - Stranger Things]()_
+- [ ] 25-3: _[Project - Stranger Things]()_
 ​
-##### Bloco 26: TypeScript
+##### 26: TypeScript
 ​
-- [ ] 26-1: _Introdução ao TypeScript_
-- [ ] 26-2: _Tipagem Estática e Generics_
-- [ ] 26-3: _Express com TypeScript_
-- [ ] 26-4: _[Projeto - Trybe Smith]()_
+- [ ] 26-1: _Introduction to TypeScript__
+- [ ] 26-2: _Static Types and Generics_
+- [ ] 26-3: _Express with TypeScript_
+- [ ] 26-4: _[Project - Trybe Smith]()_
 ​
-##### Bloco 27: Programação Orientada a Objetos(POO) & SOLID
+##### 27: Object-Oriented Programming (OOP) & SOLID
 ​
-- [ ] 27-1: _Introdução à Orientação a Objetos_
-- [ ] 27-2: _Herança e Interfaces_
-- [ ] 27-3: _Polimorfismo_
-- [ ] 27-4: _SOLID - Introdução_
-- [ ] 27-5: _SOLID - Continuação_
-- [ ] 27-6: _[Projeto - Trybers and Dragons]()_
+- [ ] 27-1: _Introduction to Object Oriented Programming_
+- [ ] 27-2: _Herance and interfaces_
+- [ ] 27-3: _Polymorphism_
+- [ ] 27-4: _SOLID - Introduction_
+- [ ] 27-5: _SOLID - Continuation_
+- [ ] 27-6: _[Project - Trybers and Dragons]()_
 ​
-##### Bloco 28: Projeto - TFC - Trybe Futebol Clube
+##### 28: Project - TFC - Trybe Soccer Club
 ​
-- [ ] 28-3: _[Projeto - TFC - Trybe Futebol Clube]()_
+- [ ] 28-3: _[Project - TFC - Trybe Soccer Club]]()_
 ​
-##### Bloco 29: Introdução ao MongoDB
+##### 29: Introduction to MongoDB
 ​
-- [ ] 29-1: _MongoDB - Introdução_
+- [ ] 29-1: _MongoDB - Introduction_
 - [ ] 29-2: _Filter Operators_
-- [ ] 29-3: _[Projeto - Data Flights]()_
+- [ ] 29-3: _[Project - Data Flights]()_
 ​
-##### Bloco 30: MongoBD - Updates Simples e Complexos
+##### 30: MongoBD - Simple and Complex Updates
 ​
-- [ ] 30-1: _Update Simples
-- [ ] 30-2: _Updates Complexos - Arrays - Parte 1_
-- [ ] 30-3: _Updates Complexos - Arrays - Parte 2_
-- [ ] 30-4: _[Projeto - Commerce]()_
+- [ ] 30-1: _Simple Updates
+- [ ] 30-2: _Complex Updates - Arrays - Part 1_
+- [ ] 30-3: _Complex Updates - Arrays - Part 2_
+- [ ] 30-4: _[Project - Commerce]()_
 ​
-##### Bloco 31: MasterClass - VPS, CI/CD
+##### 31: MasterClass - VPS, CI/CD
 ​
 - [ ] 31-1: _Dia 1 - Aguardando Conteúdo_
 - [ ] 31-2: _Dia 2 - Aguardando Conteúdo_
