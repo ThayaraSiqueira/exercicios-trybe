@@ -45,7 +45,7 @@ The program has over 1,500 hours of synchronous and assynchronous online classes
 - [X] 5-6: _[Project - Task list]()_
 - [X] 5-7: _[Project - Meme Generator]()_
 - [X] 5-7: _[Project - Guess the Color]()_
-- [X] 5-7: _[Project - Mystery Letter]]()_
+- [X] 5-7: _[Project - Mystery Letter]()_
 ​
 ##### 6: HTML & CSS -  Forms, Flexbox & Responsive
 ​
