@@ -4,4 +4,32 @@ html {
   
   *, *:before, *:after {
     box-sizing: inherit;
+    margin: 0.5rem
   }
+
+  h1, h2, h3 {
+      text-align: center;
+  }
+
+  header {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      font-weight:900;
+      font-size: 16px;
+      background-color: rgb(20, 82, 20);
+}
+
+body {
+    background-image: url('img.jpg');
+    color: white;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+.list {
+    list-style:none;
+    display: inline-block
+}
