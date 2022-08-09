@@ -1,6 +1,6 @@
 const express = require('express');
 const Joi = require('joi');
-// const rescue = require('express-rescue');
+require ('express-async-errors');
 const userModel = require('./models/userModel');
 
 const app = express();
@@ -25,10 +25,21 @@ app.get('/', (_req,res) => {
     res.status(200).json({ message: 'oi'});
 })
 
+app.get('/user', async (_req,res) => {
+    const users = await  userModel.findAll();
+    res.status(200).json(users);
+})
+
 app.post('/user', async (req, res) => {
     const user = validateBody(req.body);
     const insertUser = await userModel.create(user);
     res.status(201).json(insertUser);
+})
+
+app.use((err, req, res, next) => {
+    const { message } = err;
+
+    res.status(404).json({ message });
 })
 
 app.listen(PORT, () => { console.log(`Running on ${PORT}`);});
