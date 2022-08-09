@@ -1,6 +1,6 @@
 const express = require('express');
 const Joi = require('joi');
-require ('express-async-errors');
+require('express-async-errors');
 const userModel = require('./models/userModel');
 
 const app = express();
@@ -49,6 +49,14 @@ app.post('/user', async (req, res) => {
 app.get('/user/:id', async (req,res) => {
     const { id } = validateId(req.params);
     const user = await userModel.findById(id);
+    res.status(200).json(user);
+})
+
+app.put('/user/:id', async (req,res) => {
+    const { id } = validateId(req.params);
+    const user = validateBody(req.body);
+    await userModel.checkIfExists(id);
+    await userModel.update(id, user);
     res.status(200).json(user);
 })
 
