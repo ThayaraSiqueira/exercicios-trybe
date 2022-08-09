@@ -12,6 +12,12 @@ const userModel = {
         const sql = 'SELECT * FROM users';
         const [users] = await db.query(sql);
         return users;
+    },
+
+    findById: async (id) => {
+        const sql = 'SELECT * FROM users WHERE id = ?';
+        const [[user]] = await db.query(sql, [id]);
+        return user;
     }
 };
 

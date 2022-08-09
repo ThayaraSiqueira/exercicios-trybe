@@ -21,6 +21,16 @@ const validateBody = (user) => {
    return value;
 }
 
+const validateId = (user) => {
+    const schema = Joi.object({
+        id: Joi.number().integer().required(),
+    })
+   const { error, value } = schema.validate(user);
+   if (error) throw new Error(error.message);
+
+   return value;
+}
+
 app.get('/', (_req,res) => {
     res.status(200).json({ message: 'oi'});
 })
@@ -34,6 +44,12 @@ app.post('/user', async (req, res) => {
     const user = validateBody(req.body);
     const insertUser = await userModel.create(user);
     res.status(201).json(insertUser);
+})
+
+app.get('/user/:id', async (req,res) => {
+    const { id } = validateId(req.params);
+    const user = await userModel.findById(id);
+    res.status(200).json(user);
 })
 
 app.use((err, req, res, next) => {
