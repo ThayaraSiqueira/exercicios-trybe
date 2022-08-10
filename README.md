@@ -3,6 +3,7 @@
 This repository contains all the learning activities developed by Thayara Siqueira
 (https://www.linkedin.com/in/thayara-siqueira-226603215/) while studying at [Trybe](https://www.betrybe.com/) :rocket:
 ​
+
 The program has over 1,500 hours of synchronous and assynchronous online classes, covering introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills.
 ​
 ##  Web Development Fundamentals :white_check_mark:
