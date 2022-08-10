@@ -170,18 +170,19 @@ The program has over 1,500 hours of synchronous and assynchronous online classes
 ​
 ##### 23: Node.js - Service Layer & Rest & Restful Architecture
 ​
-- [ ] 23-1: _Software Architecture - Model Layer_
-- [ ] 23-2: _Software Architecture - Controller and Service Layer_
-- [ ] 23-3: _Web Architecture - Rest & Restful_
-- [ ] 23-4: _Software Architecture - Testing the Layers_
-- [ ] 23-5: _[Project - Store Manager]()_
+- [X] 23-1: _Software Architecture - Model Layer_
+- [X] 23-2: _Software Architecture - Controller and Service Layer_
+- [X] 23-3: _Web Architecture - Rest & Restful_
+- [X] 23-4: _Software Architecture - Testing the Layers_
+- [X] 23-5: _[Project - Store Manager]()_
 ​
 ##### 24: Node.js - ORM & Authentication
 ​
 - [ ] 24-1: _ORM - Application Database Interface_
 - [ ] 24-2: _ORM - Associations_
 - [ ] 24-3: _JWT - (JSON Web Token)_
-- [ ] 24-4: _[Project - Blog API]()_
+- [ ] 24-4: _Testing APIs with Integration Tests_
+- [ ] 24-5: _[Project - Blog API]()_
 ​
 ##### 25: Deployment
 ​
@@ -201,8 +202,8 @@ The program has over 1,500 hours of synchronous and assynchronous online classes
 - [ ] 27-1: _Introduction to Object Oriented Programming_
 - [ ] 27-2: _Herance and interfaces_
 - [ ] 27-3: _Polymorphism_
-- [ ] 27-4: _SOLID - Introduction_
-- [ ] 27-5: _SOLID - Continuation_
+- [ ] 27-4: _SOLID - Introduction and Principles S, O and D_
+- [ ] 27-5: _SOLID - Principles L and I_
 - [ ] 27-6: _[Project - Trybers and Dragons]()_
 ​
 ##### 28: Project - TFC - Trybe Soccer Club
@@ -213,66 +214,66 @@ The program has over 1,500 hours of synchronous and assynchronous online classes
 ​
 - [ ] 29-1: _MongoDB - Introduction_
 - [ ] 29-2: _Filter Operators_
-- [ ] 29-3: _[Project - Data Flights]()_
+- [ ] 29-3: _Query Operators_
+- [ ] 29-4: _Simple Updates_
+- [ ] 29-5: _Complex Updates - Arrays_
+- [ ] 29-6: _[Project - Commerce]()_
 ​
-##### 30: MongoBD - Simple and Complex Updates
+##### 30: MongoBD with Node.js and POO
 ​
-- [ ] 30-1: _Simple Updates
-- [ ] 30-2: _Complex Updates - Arrays - Part 1_
-- [ ] 30-3: _Complex Updates - Arrays - Part 2_
-- [ ] 30-4: _[Project - Commerce]()_
+- [ ] 30-1: _Mongoose and MSC architecture (Model layer)_
+- [ ] 30-2: _Mongoose and MSC architecture(Service and Controller layer)_
+- [ ] 30-3: _[Project - Car Shop]()_
 ​
-##### 31: MasterClass - VPS, CI/CD
+##### 31: Project - Delivery App
 ​
-- [ ] 31-1: _Dia 1 - Aguardando Conteúdo_
-- [ ] 31-2: _Dia 2 - Aguardando Conteúdo_
+- [ ] 31-1: _[Project - Delivery App]()_
 ​
-##### Bloco 32: Projeto - App de Delivery
+##### 32: MasterClass - VPS, CI/CD
 ​
-- [ ] 32-1: _[Projeto - App de Delivery]()_
+- [ ] 31-1: _Day 1 - VPS_
+- [ ] 31-2: _Day 2 - Loading..._
 ​
-## Ciência da Computação :hourglass_flowing_sand:
+## Computer Science :hourglass_flowing_sand:
 ​
-##### Bloco 33: Introdução à Python
+##### 33: Introduction to Python
 ​
-- [ ] 33-1: _Aprendendo Python_
-- [ ] 33-2: _Entrada e Saída de Dados_
-- [ ] 33-3: _Testes_
-- [ ] 33-4: _[Projeto - Job Insights]()_
+- [ ] 33-1: _Learning Python_
+- [ ] 33-2: _Data input and output_
+- [ ] 33-3: _Tests_
+- [ ] 33-4: _[Project - Job Insights]]()_
 ​
-##### Bloco 34: Programação Orientada a Objetos e Padrões de Projeto
+##### 34: Project Patterns
 ​
-- [ ] 34-1: _Introdução à programação orientada a objetos_
-- [ ] 34-2: _Herança, Composição e Interfaces_
-- [ ] 34-3: _Padrões de projeto_
-- [ ] 34-4: _[Projeto - Relatórios de Estoque]()_
+- [ ] 34-1: _P.O.O in Python_
+- [ ] 34-2: _Patterns - Iterator, Adapter, Strategy_
+- [ ] 34-3: _Patterns - Decorator, Observer, Factory_
+- [ ] 34-4: _[Project - Stock Reports]()_
 ​
-##### Bloco 35: Redes e Raspagem de Dados
+##### 35: Networking and Data Scraping
 ​
-- [ ] 35-1: _Arquitetura de redes_
-- [ ] 35-2: _Redes de computadores, ferramentas e segurança_
-- [ ] 35-3: _Raspagem de Dados_
-- [ ] 35-4: _[Projeto - Tech news]()_
+- [ ] 35-1: _Network Architecture, Tools and Security_
+- [ ] 35-2: _Data scraping_
+- [ ] 35-3: _[Project - Tech news]()_
 ​
-##### Bloco 36: Algoritmos
+##### 36: Algorithms
 ​
-- [ ] 36-1: _Complexidade de Algoritmos_
-- [ ] 36-2: _Recursividade e Estratégias para solução de problemas_
-- [ ] 36-3: _Algoritmos de ordenação e busca_
-- [ ] 36-4: _[Projeto - Algoritmos]()_
+- [ ] 36-1: _Complexity of Algorithms_
+- [ ] 36-2: _Recursiveness and problem solving strategies_
+- [ ] 36-3: _Sorting and search algorithms_
+- [ ] 36-4: _[Project - Algorithms]()_
 ​
-##### Bloco 37: Estrutura de Dados I - Arrays, Hashmaps & Sets
+##### 37: Data Structure I - Arrays, Hashmaps & Sets
 ​
-- [ ] 37-1: _Arquitetura de Computadores_
+- [ ] 37-1: _Computer Architecture_
 - [ ] 37-2: _Arrays_
-- [ ] 37-3: _Hashmap e Dict_
-- [ ] 37-4: _Set_
-- [ ] 37-5: _[Projeto - Restaurant Orders]()_
+- [ ] 37-3: _Nodes and Linked Lists_
+- [ ] 37-4: _Stacks and Queues_
+- [ ] 37-5: _[Project - TING - Trybe Is Not Google]()_
 ​
-##### Bloco 38: Estrutura de Dados II - Listas, Filas & Pilhas
+##### 38: Data Structures II - Hashmaps and Sets
 ​
-- [ ] 38-1: _Nó e Listas Encadeadas_
-- [ ] 38-2: _Pilhas e Filas_
-- [ ] 38-3: _[Projeto - TING - Trybe Is Not Google]()_
+- [ ] 38-1: _Hashmap and Dict_
+- [ ] 38-2: _Set_
+- [ ] 38-3: _[Project - Restaurant Orders]()_
 ​
-# [...]
