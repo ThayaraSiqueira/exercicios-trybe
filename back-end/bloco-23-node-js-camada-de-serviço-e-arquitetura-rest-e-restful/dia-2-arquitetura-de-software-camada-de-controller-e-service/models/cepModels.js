@@ -13,6 +13,12 @@ const cepModels = {
         const [[result]] = await db.query(sql, [cep]);
         return result;
     },
+
+    create: async (obj) => {
+        const { cep, logradouro, bairro, localidade, uf } = obj;
+        const sql = 'INSERT INTO ceps (cep, logradouro, bairro, localidade, uf) VALUES (?, ?, ?, ?, ?)';
+        const result = await db.query(sql, [ cep, logradouro, bairro, localidade, uf ]);
+    },
 };
 
 module.exports = cepModels;

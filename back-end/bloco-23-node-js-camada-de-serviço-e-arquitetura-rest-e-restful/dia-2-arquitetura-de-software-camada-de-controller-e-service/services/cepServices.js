@@ -1,5 +1,6 @@
 const cepModels = require('../models/cepModels');
-
+const Joi = require('joi');
+const { string } = require('joi');
 const cepService = {
     validateCep: (cep) => {
         const regex = /^\d{5}-?\d{3}$/;
@@ -10,6 +11,21 @@ const cepService = {
             throw err;
         }
     },
+
+    validateBody: (obj) => {
+        const schema = Joi.object({
+            "cep": Joi.string().required(),
+            "logradouro": Joi.string().required(),
+            "bairro": Joi.string().required(),
+            "localidade": Joi.string().required(),
+            "uf": Joi.string().min(2).max(2).required(),
+        })
+        const {err, value} = schema.validate(obj);
+        if(err) throw err;
+
+        return value;
+    },
+
     checkIfExists: async (cep) => {
         const result = await cepModels.checkIfExists(cep);
         if (!result) {
@@ -24,6 +40,10 @@ const cepService = {
     findByCep: async (cep) => {
         const result = await cepModels.findByCep(cep);
         return result;
+    },
+
+    create: async (obj) => {
+        await cepModels.create(obj);
     },
 };
 
