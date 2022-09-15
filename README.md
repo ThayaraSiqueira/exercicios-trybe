@@ -179,33 +179,33 @@ The program has over 1,500 hours of synchronous and assynchronous online classes
 ​
 ##### 24: Node.js - ORM & Authentication
 ​
-- [ ] 24-1: _ORM - Application Database Interface_
-- [ ] 24-2: _ORM - Associations_
-- [ ] 24-3: _JWT - (JSON Web Token)_
-- [ ] 24-4: _Testing APIs with Integration Tests_
-- [ ] 24-5: _[Project - Blog API]()_
+- [X] 24-1: _ORM - Application Database Interface_
+- [X] 24-2: _ORM - Associations_
+- [X] 24-3: _JWT - (JSON Web Token)_
+- [X] 24-4: _Testing APIs with Integration Tests_
+- [X] 24-5: _[Project - Blog API]()_
 ​
 ##### 25: Deployment
 ​
-- [ ] 25-1: _Infrastructure - Deploying with Heroku_
-- [ ] 25-2: _Deploy Docker & Heroku_
-- [ ] 25-3: _[Project - Stranger Things]()_
+- [X] 25-1: _Infrastructure - Deploying with Heroku_
+- [X] 25-2: _Deploy Docker & Heroku_
+- [X] 25-3: _[Project - Stranger Things]()_
 ​
 ##### 26: TypeScript
 ​
-- [ ] 26-1: _Introduction to TypeScript__
-- [ ] 26-2: _Static Types and Generics_
-- [ ] 26-3: _Express with TypeScript_
-- [ ] 26-4: _[Project - Trybe Smith]()_
+- [X] 26-1: _Introduction to TypeScript__
+- [X] 26-2: _Static Types and Generics_
+- [X] 26-3: _Express with TypeScript_
+- [X] 26-4: _[Project - Trybe Smith]()_
 ​
 ##### 27: Object-Oriented Programming (OOP) & SOLID
 ​
-- [ ] 27-1: _Introduction to Object Oriented Programming_
-- [ ] 27-2: _Herance and interfaces_
-- [ ] 27-3: _Polymorphism_
-- [ ] 27-4: _SOLID - Introduction and Principles S, O and D_
-- [ ] 27-5: _SOLID - Principles L and I_
-- [ ] 27-6: _[Project - Trybers and Dragons]()_
+- [X] 27-1: _Introduction to Object Oriented Programming_
+- [X] 27-2: _Herance and interfaces_
+- [X] 27-3: _Polymorphism_
+- [X] 27-4: _SOLID - Introduction and Principles S, O and D_
+- [X] 27-5: _SOLID - Principles L and I_
+- [X] 27-6: _[Project - Trybers and Dragons]()_
 ​
 ##### 28: Project - TFC - Trybe Soccer Club
 ​
