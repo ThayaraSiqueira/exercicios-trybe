@@ -210,11 +210,11 @@ The program has over 1,500 hours of synchronous and assynchronous online classes
 ​
 ##### 28: Project - TFC - Trybe Soccer Club
 ​
-- [ ] 28-3: _[Project - TFC - Trybe Soccer Club]]()_
+- [X] 28-3: _[Project - TFC - Trybe Soccer Club]]()_
 ​
 ##### 29: Introduction to MongoDB
 ​
-- [ ] 29-1: _MongoDB - Introduction_
+- [X] 29-1: _MongoDB - Introduction_
 - [ ] 29-2: _Filter Operators_
 - [ ] 29-3: _Query Operators_
 - [ ] 29-4: _Simple Updates_
