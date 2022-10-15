@@ -215,11 +215,11 @@ The program has over 1,500 hours of synchronous and assynchronous online classes
 ##### 29: Introduction to MongoDB
 ​
 - [X] 29-1: _MongoDB - Introduction_
-- [ ] 29-2: _Filter Operators_
-- [ ] 29-3: _Query Operators_
-- [ ] 29-4: _Simple Updates_
-- [ ] 29-5: _Complex Updates - Arrays_
-- [ ] 29-6: _[Project - Commerce]()_
+- [X] 29-2: _Filter Operators_
+- [X] 29-3: _Query Operators_
+- [X] 29-4: _Simple Updates_
+- [X] 29-5: _Complex Updates - Arrays_
+- [X] 29-6: _[Project - Commerce]()_
 ​
 ##### 30: MongoBD with Node.js and POO
 ​
