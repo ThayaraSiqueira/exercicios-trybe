@@ -223,9 +223,9 @@ The program has over 1,500 hours of synchronous and assynchronous online classes
 ​
 ##### 30: MongoBD with Node.js and POO
 ​
-- [ ] 30-1: _Mongoose and MSC architecture (Model layer)_
-- [ ] 30-2: _Mongoose and MSC architecture(Service and Controller layer)_
-- [ ] 30-3: _[Project - Car Shop]()_
+- [X] 30-1: _Mongoose and MSC architecture (Model layer)_
+- [x] 30-2: _Mongoose and MSC architecture(Service and Controller layer)_
+- [x] 30-3: _[Project - Car Shop]()_
 ​
 ##### 31: Project - Delivery App
 ​
