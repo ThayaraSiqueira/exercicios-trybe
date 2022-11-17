@@ -229,7 +229,7 @@ The program has over 1,500 hours of synchronous and assynchronous online classes
 ​
 ##### 31: Project - Delivery App
 ​
-- [ ] 31-1: _[Project - Delivery App]()_
+- [x] 31-1: _[Project - Delivery App]()_
 ​
 ##### 32: MasterClass - VPS, CI/CD
 ​
