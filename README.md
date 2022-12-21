@@ -233,23 +233,23 @@ The program has over 1,500 hours of synchronous and assynchronous online classes
 ​
 ##### 32: MasterClass - VPS, CI/CD
 ​
-- [ ] 31-1: _Day 1 - VPS_
-- [ ] 31-2: _Day 2 - Loading..._
+- [X] 31-1: _Day 1 - VPS_
+- [X] 31-2: _Day 2 - Loading..._
 ​
 ## Computer Science :hourglass_flowing_sand:
 ​
 ##### 33: Introduction to Python
 ​
-- [ ] 33-1: _Learning Python_
-- [ ] 33-2: _Data input and output_
-- [ ] 33-3: _Tests_
-- [ ] 33-4: _[Project - Job Insights]]()_
+- [X] 33-1: _Learning Python_
+- [X] 33-2: _Data input and output_
+- [X] 33-3: _Tests_
+- [X] 33-4: _[Project - Job Insights]]()_
 ​
 ##### 34: Project Patterns
 ​
-- [ ] 34-1: _P.O.O in Python_
-- [ ] 34-2: _Patterns - Iterator, Adapter, Strategy_
-- [ ] 34-3: _Patterns - Decorator, Observer, Factory_
+- [X] 34-1: _P.O.O in Python_
+- [X] 34-2: _Patterns - Iterator, Adapter, Strategy_
+- [X] 34-3: _Patterns - Decorator, Observer, Factory_
 - [ ] 34-4: _[Project - Stock Reports]()_
 ​
 ##### 35: Networking and Data Scraping
