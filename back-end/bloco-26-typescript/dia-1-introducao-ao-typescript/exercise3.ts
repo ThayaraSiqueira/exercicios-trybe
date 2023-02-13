@@ -1,6 +1,6 @@
 enum Seasons {
     PRIMAVERA = "Primavera",
-    VERÃO = "Verão",
+    VERAO = "Verão",
     OUTONO = "Outono",
     INVERNO = "Inverno",
 }
